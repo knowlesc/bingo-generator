@@ -1,0 +1,10 @@
+.header {
+  background: #4286f4;
+}
+
+.header > .tile {
+  font-size: 48px;
+  font-weight: 600;
+  border: none;
+  background: #4286f4;
+}
